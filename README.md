@@ -46,17 +46,21 @@
 
 ### Mobile Application (Verified on Google Pixel 8)
 
-| 🏠 Home Dashboard | 🔤 105-Style Text Studio |
+| ✨ Guided Onboarding Walkthrough | 🏠 Home Dashboard |
 |:---:|:---:|
-| <img src="screenshots/01_home_dashboard.png" width="360" alt="Home Dashboard" /> | <img src="screenshots/02_studio_105_styles.png" width="360" alt="Text Studio" /> |
+| <img src="screenshots/00_onboarding_walkthrough.png" width="360" alt="Onboarding Walkthrough" /> | <img src="screenshots/01_home_dashboard.png" width="360" alt="Home Dashboard" /> |
 
-| 🚀 Universal Share Options | 🖼️ Watermark-Free Sticker Export |
+| 🔤 105-Style Text Studio | 🚀 Universal Share Options |
 |:---:|:---:|
-| <img src="screenshots/03_share_as_image.png" width="360" alt="Share Options Modal" /> | <img src="screenshots/04_watermark_free_export.png" width="360" alt="Sticker Export Dialog" /> |
+| <img src="screenshots/02_studio_105_styles.png" width="360" alt="Text Studio" /> | <img src="screenshots/03_share_as_image.png" width="360" alt="Share Options Modal" /> |
 
-| 🛠️ 22 Creative Toolkits Hub | 🔣 2,093 Special Symbols Browser |
+| 🖼️ Watermark-Free Sticker Export | 🛠️ 22 Creative Toolkits Hub |
 |:---:|:---:|
-| <img src="screenshots/05_toolkits_hub.png" width="360" alt="Toolkits Hub" /> | <img src="screenshots/06_symbols_browser.png" width="360" alt="Symbols Browser" /> |
+| <img src="screenshots/04_watermark_free_export.png" width="360" alt="Sticker Export Dialog" /> | <img src="screenshots/05_toolkits_hub.png" width="360" alt="Toolkits Hub" /> |
+
+| 🔣 2,093 Special Symbols Browser | 😀 2,060 Unicode Emojis Library |
+|:---:|:---:|
+| <img src="screenshots/06_symbols_browser.png" width="360" alt="Symbols Browser" /> | <img src="screenshots/07_emoji_browser.png" width="360" alt="Emoji Browser" /> |
 
 ### Desktop Web Workstation (Responsive CanvasKit Engine)
 
@@ -68,6 +72,11 @@
 ---
 
 ## ✨ Core Feature Highlights
+
+### 0. 🌟 Guided Onboarding Walkthrough & Welcome Tour
+- **Interactive First-Launch Tour:** 4-slide showcase detailing 105 styles, 22 toolkits, watermark-free HD sticker export, and offline privacy.
+- **Replayable Anytime:** Dedicated **Welcome Tour** tile in Settings to revisit the interactive walkthrough at any point.
+- **Brand Consistency:** Designed with the Golden Quill aesthetic, smooth spring animations, and native haptics.
 
 ### 1. 🔤 105 Unicode Mathematical Typography Styles
 Pure mathematical Unicode conversion operating with zero network calls across 5 distinct categories:
